@@ -1,0 +1,8 @@
+Número da Conta: 0/Código do Cliente: 0/Saldo: 1.0/Tipo de Conta: Empresa/Estado: Activa
+Número da Conta: 0/Código do Cliente: 1/Saldo: 2.0/Tipo de Conta: Particular/Estado: Inactiva
+
+Número da Conta: 3/Código do Cliente: 3/Saldo: 33.0/Tipo de Conta: Particular/Estado: Inactiva
+Número da Conta: 4/Código do Cliente: 9/Saldo: 9000.0/Tipo de Conta: Particular/Estado: Activa
+Número da Conta: 5/Código do Cliente: 7/Saldo: 789000000.0/Tipo de Conta: Particular/Estado: Inactiva
+Número da Conta: 6/Código do Cliente: 6/Saldo: 400000000.0/Tipo de Conta: Empresa/Estado: Activa
+Número da Conta: 7/Código do Cliente: 0/Saldo: 0.0/Tipo de Conta: Particular/Estado: Inactiva

@@ -1,0 +1,10 @@
+Código Cliente: 0/Nome: 1/NIF/BI: 1/Telefone: 1
+Código Cliente: 1/Nome: 1/NIF/BI: 1/Telefone: 1
+Código Cliente: 2/Nome: 1/NIF/BI: 1/Telefone: 1
+Código Cliente: 3/Nome: 1/NIF/BI: 1/Telefone: 1
+Código Cliente: 4/Nome: 1/NIF/BI: 1/Telefone: 1
+Código Cliente: 5/Nome: 1/NIF/BI: 1/Telefone: 1
+Código Cliente: 6/Nome: 1/NIF/BI: 1/Telefone: 1
+Código Cliente: 7/Nome: 1/NIF/BI: 1/Telefone: 1
+Código Cliente: 8/Nome: 2/NIF/BI: 2/Telefone: 2
+Código Cliente: 9/Nome: WIlso/NIF/BI: 000090LA/Telefone: 000
